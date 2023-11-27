@@ -1,6 +1,6 @@
 Hi, this is Angus. I am interested in developing new apps and hosting services. Feel Free to drop me a message on work@12a.app.
 
-My stacks are:
+Stacks that I have used:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,git,redux,bash,bootstrap,docker,electron,express,github,jquery,linux,mastodon,neovim,netlify,nginx,nodejs,tailwind,vite,vscode)](https://skillicons.dev)
 
