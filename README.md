@@ -4,7 +4,7 @@ Stacks that I have used:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,git,redux,bash,bootstrap,docker,electron,express,github,jquery,linux,mastodon,neovim,netlify,nginx,nodejs,tailwind,vite,vscode)](https://skillicons.dev)
 
-- 🔭 I’m currently working on [kiku](https://github.com/angus6b23/kiku), [hk-transport](https://github.com/angus6b23/hk-transport)
+- 🔭 I’m currently working on [hypertrophy](https://github.com/angus6b23/hypertrophy), [hk-transport](https://github.com/angus6b23/hk-transport)
 - 🌱 I’d like to learn next.js, postgres
 - 💬 Ask me about anything from my apps and service hosted
 
